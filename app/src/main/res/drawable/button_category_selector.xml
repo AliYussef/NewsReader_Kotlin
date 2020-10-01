@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:drawable="@color/whiteColor" />
+    <item android:drawable="@drawable/button_category" />
+    <item android:layout_width="wrap_content" />
+    <item android:layout_height="wrap_content" />
+    <item android:textSize="12sp" />
+</selector>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewsReader611252</string>
+    <string name="news_reader_logo">news reader logo</string>
+    <string name="news_reader_logo_1">news reader logo 1</string>
+    <string name="new_reader_logo_2">new reader logo 2</string>
+    <string name="home">Voorpagina</string>
+    <string name="saved_news">Bewaard</string>
+    <string name="user">Gebruiker</string>
+    <string name="share_icon">deel icon</string>
+    <string name="username">Gebruikersnaam</string>
+    <string name="password">Wachtwoord</string>
+    <string name="sign_in_short">Inloggen</string>
+    <string name="sign_in_btn">Inloggen</string>
+    <string name="don_t_have_an_account_register_now">Nog geen account? Registreer nu</string>
+    <string name="repeat_password">Bevestig wachtwoord</string>
+    <string name="sign_up">Inschrijven</string>
+    <string name="welcome">Welkom</string>
+    <string name="log_out">Uitloggen</string>
+    <string name="like_button">leuk knop</string>
+    <string name="log_in_favourite">Log in om toe te kunnen voegen aan uw favorietenlijst</string>
+    <string name="add_to_favourite">Artikel is toegevoegd aan uw favorietenlijst</string>
+    <string name="remove_from_favourite">Artikel is verwijderd uit uw favorietenlijst</string>
+    <string name="error_log">Er is een fout opgetreden:</string>
+    <string name="wrong_credentials">Verkeerde gebruikersnaam of wachtwoord</string>
+    <string name="password_length">Wachtwoord moet langer zijn dan 5 letters</string>
+    <string name="password_no_match">Wachtwoord komt niet overeen</string>
+    <string name="generalFilter">Algemeen</string>
+    <string name="internetFilter">Internet</string>
+    <string name="sportFilter">Sport</string>
+    <string name="gamesFilter">Games</string>
+    <string name="remarkableFilter">Opmerkelijk</string>
+    <string name="scienceFilter">Wetenschap</string>
+    <string name="image_card">image card</string>
+    <string name="sahdow_bottom">sahdow bottom</string>
+    <string name="_01_january_1990">01 January 1990</string>
+    <string name="title">Title</string>
+    <string name="todo">TODO</string>
+    <string name="read_more">Lees verder</string>
+    <string name="connection_error">Geen internet verbinding</string>
+    <string name="retry">Probeer het opnieuw</string>
+    <string name="related">Verwant</string>
+    <string name="no_articles_found">Geen artikelen gevonden die tot deze categorie behoren !!</string>
+    <string name="category_name">" categorie naam"</string>
+</resources>

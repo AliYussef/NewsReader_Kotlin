@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">NewsReader611252</string>
+    <string name="news_reader_logo">news reader logo</string>
+    <string name="news_reader_logo_1">news reader logo 1</string>
+    <string name="new_reader_logo_2">new reader logo 2</string>
+    <string name="home">Home</string>
+    <string name="saved_news">Saved News</string>
+    <string name="user">User</string>
+    <string name="share_icon">share icon</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in_short">Sign in</string>
+    <string name="sign_in_btn">Sign in</string>
+    <string name="don_t_have_an_account_register_now">Don\'t have an account? Register Now</string>
+    <string name="repeat_password">Confirm password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="welcome">Welcome</string>
+    <string name="log_out">Log out</string>
+    <string name="like_button">like button</string>
+    <string name="log_in_favourite">Log in to be able to add to your favourite list</string>
+    <string name="add_to_favourite">Article has been added to your favourite list</string>
+    <string name="remove_from_favourite">Article has been removed from your favourite list</string>
+    <string name="error_log">An error occurred:</string>
+    <string name="wrong_credentials">Wrong username or password</string>
+    <string name="password_length">Password should be longer than 5 letters</string>
+    <string name="password_no_match">Password does not match</string>
+    <string name="generalFilter">Algemeen</string>
+    <string name="internetFilter">Internet</string>
+    <string name="sportFilter">Sport</string>
+    <string name="gamesFilter">Games</string>
+    <string name="remarkableFilter">Opmerkelijk</string>
+    <string name="scienceFilter">Wetenschap</string>
+    <string name="image_card">image card</string>
+    <string name="sahdow_bottom">sahdow bottom</string>
+    <string name="_01_january_1990">01 January 1990</string>
+    <string name="title">Title</string>
+    <string name="todo">TODO</string>
+    <string name="read_more">Read more</string>
+    <string name="connection_error">No Internet Connection</string>
+    <string name="retry">Retry</string>
+    <string name="related">Related</string>
+    <string name="summary_of_news" translatable="false">summary of News</string>
+    <string name="title_of_news" translatable="false">Title of News</string>
+    <string name="date" translatable="false">date_icon</string>
+    <string name="bottom_shadow" translatable="false">bottom shadow</string>
+    <string name="top_shadow" translatable="false">top shadow</string>
+    <string name="main_pic" translatable="false">main pic</string>
+    <string name="face_icon" translatable="false">face icon</string>
+    <string name="figure" translatable="false">figure</string>
+    <string name="category_name">Category Name</string>
+    <string name="no_articles_found">No articles found that belong to this category!!</string>
+    <string name="appwidget_text" translatable="false">EXAMPLE</string>
+    <string name="configure" translatable="false">Configure</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+</resources>
